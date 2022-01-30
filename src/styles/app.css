@@ -1,0 +1,43 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+    
+    .Login form {
+      margin: 0 auto;
+      max-width: 350px;
+      border: 2px #6055db solid;
+      border-radius: 20px;
+      padding: 20px;
+      background: linear-gradient(#123cc3, #281f93);
+    }
+
+    .Login form .loginSpan {
+      color: #b8e3ff;
+      font-size: 25px;
+      font-weight: bold;
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    .Login form span {
+        color: #ffb703;
+        font-weight: bold;
+        font-size: 12px;
+      }
+
+      
+    .Login form button {
+        background-color: #123cc3;
+      }
+
+    .Login form label{
+        color: #b8e3ff;
+        font-size: 15px;
+    }
+
+    .SuccessPage{
+        text-align: center;
+        margin-top: 300px;
+    }
+  }
